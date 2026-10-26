@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo " To test the folder"
+echo " To test the folder" 
+echo " File testing"

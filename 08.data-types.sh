@@ -9,7 +9,7 @@ echo "$var1+$var2" # It will not perform any mathematical operation and it will 
 
 echo "Addition of both numbers is: $((Svar1+$var2))
 
-FRUITS=("apple","banana","Goa")
+FRUITS=("apple" "banana" "Goa")
 
 echo "All Fruits are: ${FRUITS[@]}"
 echo "First Fruit is: ${FRUITS[0]}"

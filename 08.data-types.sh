@@ -13,5 +13,5 @@ FRUITS=("apple","banana","Goa")
 
 echo "All Fruits are: ${FRUITS[@]}"
 echo "First Fruit is: ${FRUITS[0]}"
-echo "Second Fruit is: ${FRUITS[1]}
-echo "Second Fruit is: ${FRUITS[2]}
+echo "Second Fruit is: ${FRUITS[1]}"
+echo "Second Fruit is: ${FRUITS[2]}"
